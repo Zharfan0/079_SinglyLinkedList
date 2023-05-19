@@ -91,3 +91,5 @@ bool List::delNode(int nim) //Menghapus node dari dalam list
 	delete current;
 	return true;
 }
+
+//check apakah node yang dimaksud ada di dalam list atau tidak
